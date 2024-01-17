@@ -1,0 +1,44 @@
+#logo  {
+    height: 100px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-title {
+    text-align: center;
+}
+
+#main {
+    background-color: rgb(246, 246, 172);
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(250, 149, 149);
+}
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cheesecake {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    font-size: 24px;
+    color: black;
+}
+
+.ltmp {
+    font-size: 18px;
+    text-align: center;
+}
